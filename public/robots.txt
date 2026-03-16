@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bronx-burial-insurance.com/sitemap.xml
