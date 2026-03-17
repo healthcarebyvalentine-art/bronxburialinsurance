@@ -27,7 +27,7 @@ export default function About() {
             </p>
 
             <p className="body-text" style={{ marginBottom: 32 }}>
-              I personally write every policy. I personally walk every family through the process. When your family needs to file a claim, they call me — not a 1-800 number. That is my commitment, and it comes from both my license and my collar.
+              I personally assess every situation, source the right policy from top-rated carriers, and guide every family through the process. When your family needs to file a claim, they call me — not a 1-800 number. That is my commitment, and it comes from both my license and my collar.
             </p>
 
             <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '12px 20px', marginBottom: 32 }}>
